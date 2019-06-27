@@ -1,3 +1,4 @@
 # myrepo
-Testing my repo
-add a line from my local computer
+The list of libraries that I often use are added
+Rmarkdown added for the output
+Shiny and htmlwidgets are added for dashboard
